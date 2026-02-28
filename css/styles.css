@@ -601,7 +601,7 @@ footer {
   font-size: 14px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
-  transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 
@@ -609,7 +609,7 @@ footer {
 .orderform-comment:hover,
 .orderform-datafield:focus,
 .orderform-comment:focus{
-  border: 1px solid #4d5ae5;
+  border-color: #4d5ae5;
 }
 .orderform-datafield + svg,
 .orderform-datafield + svg{
