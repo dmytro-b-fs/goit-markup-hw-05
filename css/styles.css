@@ -470,13 +470,14 @@ footer {
   color: #fff;
   background-color: #4D5AE5;
   border: none;
+  cursor: pointer;
   border-radius: 4px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-subscribe-btn:hover,
 .footer-subscribe-btn:focus {
-  background-color: #404BBF;
+  background-color: #31d0aa;
 }
 
 .footer-subscribe-btn-icon {
